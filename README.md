@@ -104,21 +104,21 @@ jobs 명령에 대한 내용에서 포그래운드 정보는 맨 앞의 숫자�
 **출력되는 백그라운드 작업의 상태값 설명**
 
 
-Running 작업이 계속 진행중임
-
-Done 작업이 완료되어 0을 반환
-
-Done(code) 작업이 종료되었으며 0이 아닌 코드를 반환
-
-Stopped 작업이 일시 중단
-
-stopped(SIGTSTP) SIGTSTP 시그널이 작업을 일시 중단
-
-stopped(SIGSTOP) SIGSTOP 시그널이 작업을 일시 중단
-
-stopped(SIGTTIN) SIGTTIN 시그널이 작업을 일시 중단
-
-stopped(SIGTTOU) SIGTTOU 시그널이 작업을 일시 중단
+|Running 작업이 계속 진행중임|
+|||
+|Done 작업이 완료되어 0을 반환|
+|||
+|Done(code) 작업이 종료되었으며 0이 아닌 코드를 반환|
+|||
+|Stopped 작업이 일시 중단|
+|||
+|stopped(SIGTSTP)| SIGTSTP 시그널이 작업을 일시 중단|
+|||
+|stopped(SIGSTOP)| SIGSTOP 시그널이 작업을 일시 중단|
+|||
+|stopped(SIGTTIN)| SIGTTIN 시그널이 작업을 일시 중단|
+|||
+|stopped(SIGTTOU)| SIGTTOU 시그널이 작업을 일시 중단|
 
 
 ## 4. kill 명령어
